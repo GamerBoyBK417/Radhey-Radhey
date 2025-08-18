@@ -4,10 +4,10 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add the name and URL for each service you want to monitor.
     const services = [
         { name: 'Game Panel', url: 'https://gpanel.coramtix.in/' },
-        { name: 'GitHub', url: 'https://www.github.com' },
-        { name: 'Cloudflare', url: 'https://www.cloudflare.com' },
-        { name: 'A Non-Existent Site', url: 'https://thissitedoesnotexist12345.com' },
-        { name: 'My Personal Site', url: 'https://www.example.com' }
+        { name: 'Website', url: 'https://www.github.com' },
+        { name: 'Web Hosting', url: 'https://www.cloudflare.com' },
+        { name: 'Node 1', url: 'https://node1.coramtix.in' },
+        { name: 'Node 2', url: 'https://node2.coramtix.in' }
     ];
 
     const statusList = document.getElementById('status-list');
