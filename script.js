@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // --- CUSTOMIZE YOUR LINKS HERE ---
     // Add the name and URL for each service you want to monitor.
     const services = [
-        { name: 'Google', url: 'https://www.google.com' },
+        { name: 'Game Panel', url: 'https://gpanel.coramtix.in/' },
         { name: 'GitHub', url: 'https://www.github.com' },
         { name: 'Cloudflare', url: 'https://www.cloudflare.com' },
         { name: 'A Non-Existent Site', url: 'https://thissitedoesnotexist12345.com' },
